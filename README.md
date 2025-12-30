@@ -35,6 +35,7 @@ This dashboard provides a single, interactive view of complaint performance and 
 ## 🔗 Live Dashboard
 👉 **View Interactive Power BI Dashboard:**  
 https://app.powerbi.com/view?r=eyJrIjoiNzgyMDk1M2QtZTJjOC00OTk0LTg0NTEtNTkzYzA1NzE1NDBjIiwidCI6ImZhNGZlYjhkLTNkNDItNDU4My1iNTRjLTMyYjQwNzYzMDI0NSJ9
+
 > The live report allows users to explore KPIs, apply filters, and interact with visuals in real time.
 
 ---
@@ -142,9 +143,11 @@ This dashboard enables stakeholders to:
 
 ---
 
-## Files in Repository
-- `Financial Complaints Overview Dashboard.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
+## Repository Contents
+- `Dashboard_Pic.jpg` – Snapshot of the Power BI dashboard  
+- `Financial Complaints Overview Dashboard Waseem.pbix` – Power BI dashboard file  
+- `Financial Consumer Complaint Problem Statement.pdf` – Project problem statement  
+- `README.md` – Project documentation  
 
 ---
 
